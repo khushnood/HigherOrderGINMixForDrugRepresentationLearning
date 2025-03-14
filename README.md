@@ -22,7 +22,6 @@ requests      2.27.1
 lifelines	  0.27.8
 ```
 
-pip install subword-nmt==0.3.8 texttable==1.7.0 pytdc==0.4.1 loguru==0.7.2 lifelines
 
 ### Dataset
 
