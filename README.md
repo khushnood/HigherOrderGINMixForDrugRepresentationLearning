@@ -1,4 +1,4 @@
-Title: "Advancing Drug Discovery with Graph Neural Networks: Drug-target representation learning"
+#Title: "Molecular graph representation learning: Drug target binding affinity prediction"
 This is to reporduced results specially classification based
 ### Dependency
 
