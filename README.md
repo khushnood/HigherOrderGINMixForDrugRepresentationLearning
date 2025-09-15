@@ -1,4 +1,4 @@
-#Title: "Molecular graph representation learning: Drug target binding affinity prediction"
+# Title: "Molecular graph representation learning: Drug target binding affinity prediction"
 This is to reporduced results specially classification based
 ### Dependency
 
